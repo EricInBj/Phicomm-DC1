@@ -8,3 +8,14 @@ Phicomm DC1 plugin for Domoticz
 可以不配置显示名，这样会直接用 IP 地址最后一段作为名字。
 
 每一个 DC1 会创建出5个设备：一个总开关、三个孔位对应的开关、一个电压设备。
+
+
+
+#感谢
+
+参考了 Zack 大神的 M1 插件, 以及 MP1 插件
+https://github.com/promisezackr/Phicomm-M1-Domoticz-Plugin
+
+参考了 Hass 社区里的大神们的插件
+https://bbs.hassbian.com/thread-4773-1-1.html
+
